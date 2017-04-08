@@ -1,0 +1,13 @@
+#+BEGIN_COMMENT
+.. title: Listen to music with emacs using bongo
+.. slug: listen-to-music-with-emacs-using-bongo
+.. date: 2017-04-08 22:17:33 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: This page is to talk a bit about my passion, why am i doing this blog
+.. type: text
+#+END_COMMENT
+
+
+Write your post here.
