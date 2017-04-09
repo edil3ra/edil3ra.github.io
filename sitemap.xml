@@ -15,7 +15,55 @@
  </url>
  <url>
   <loc>https://github.com/edil3ra/edil3ra.github.io/archive.html</loc>
-  <lastmod>2017-04-08T20:18:00Z</lastmod>
+  <lastmod>2017-04-09T19:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/plugin/markdown/example.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/plugin/notes-server/notes.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/plugin/notes/notes.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/test/examples/barebones.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/test/examples/embedded-media.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/test/examples/math.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/test/examples/slide-backgrounds.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/test/test-markdown-element-attributes.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/test/test-markdown-slide-attributes.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/test/test-markdown.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/assets/reveal/test/test.html</loc>
+  <lastmod>2017-04-09T19:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://github.com/edil3ra/edil3ra.github.io/categories/</loc>
@@ -24,6 +72,10 @@
  <url>
   <loc>https://github.com/edil3ra/edil3ra.github.io/pages/about_me/</loc>
   <lastmod>2017-04-08T20:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/edil3ra/edil3ra.github.io/pages/cv/</loc>
+  <lastmod>2017-04-08T22:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://github.com/edil3ra/edil3ra.github.io/posts/listen-to-music-with-emacs-using-bongo/</loc>

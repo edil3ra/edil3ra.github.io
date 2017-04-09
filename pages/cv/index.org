@@ -1,0 +1,91 @@
+#+BEGIN_COMMENT
+.. title: cv
+.. slug: cv
+.. date: 2017-04-09 00:15:50 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+#+NIKOLA_LINK: http://some
+
+#+NIKOLA_PREVIEWIMAGE: images/looks_great_on_facebook.png
+
+
+* Technologies
+** Back
+*** Languages
+    | Technologies | Level  |
+    |--------------+--------|
+    | python       | high   |
+    | django       | medium |
+    | flask        | medium |
+    | nikola       | medium |
+    | ruby         | low    |
+    | php          | low    |
+    | nodejs       | low    |
+    | clojure      | low    |
+    | elixir       | low    |
+    | emacs lisp   | medium |
+    | phoenix      | medium |
+    | php          | low    |
+    | symfony2     | low    |
+    | zf2          | low    |
+
+
+   
+
+
+*** Databases
+	| Technologies | Level  |
+	|--------------+--------|
+	| mysql        | medium |
+	| postgresql   | medium |
+	| sqlite       | medium |
+	| mongo        | low    |
+	| redis        | low    |
+	| google docs  | low    |
+	
+
+** Front
+*** Languages
+    | Thenologies | Level  |
+    |-------------+--------|
+    | javascript  | high   |
+    | es6         | high   |
+    | jquery      | medium |
+    | typescript  | medium |
+    | angular2    | medium |
+    | react       | low    |
+    | webpack     | medium |
+    | gulp        | medium |
+    | grunt       | medium |
+
+*** Design
+	| Technologies | Level  |
+	|--------------+--------|
+	| css          | medium |
+	| sass         | medium |
+	| bootstrap3   | medium |
+	| foundation   | medium |
+	| photoshop    | none   |
+
+
+** Sys Ad
+   | Technologies | Level  |
+   |--------------+--------|
+   | debian       | medium |
+   | redhat       | low    |
+   | nginx        | medium |
+   | apache2      | low    |
+   | docker       | low    |
+   | vagrant      | low    |
+   | http         | medium |
+   | tcp/ip       | medium |
+   | ssh          | medium |
+   | nmap         | medium |
+   | ncat         | medium |
+   | emacs        | high   |
+   
