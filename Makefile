@@ -2,8 +2,7 @@ ENVIRONMENT := _env/
 
 
 $(ENVIRONMENT):
-	pyvenv "$@"
-
+	python3 -m venv "$@"
 
 default: help
 

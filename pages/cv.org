@@ -1,0 +1,77 @@
+#+BEGIN_COMMENT
+.. title: cv
+.. slug: cv
+.. date: 2017-04-10 22:43:18 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: my cv with my competences and information about me
+.. type: text
+#+END_COMMENT
+
+
+* About me
+  here is a bit about me
+
+* Skills
+  here is my skill
+
+
+* Backend
+** Languages
+     | name    | level  |
+     |---------+--------|
+     | python  | high   |
+     | django  | medium |
+     | flask   | medium |
+     | nikola  | medium |
+     | node    | medium |
+     | ruby    | low    |
+     | java    | low    |
+     | php     | low    |
+     | clojure | low    |
+     | elixir  | low    |
+     | phoenix | medium |
+     | c       | low    |
+** Databases
+     | name       | level  |
+     |------------+--------|
+     | sql        | medium |
+     | mysql      | medium |
+     | postgresql | medium |
+     | mongo      | low    |
+     | redis      | low    |
+* Front end
+** application/language
+     | name       | level  |
+     |------------+--------|
+     | javascript | medium |
+     | es6        | medium |
+     | typescript | medium |
+     | angular    | medium |
+     | react      | medium |
+** Design
+     | name       | level  |
+     |------------+--------|
+     | html5      | medium |
+     | css        | medium |
+     | scss       | medium |
+     | jquery     | medium |
+     | bootstrap3 | medium |
+     | foundation | medium |
+**  build tools
+   | name    | level  |
+   |---------+--------|
+   | webpack | medium |
+   | gulp    | medium |
+   | grunt   | medium |
+
+
+* Sys admin
+  | name    | level  |
+  | linux   | medium |
+  | network | medium |
+  | vagrant | medium |
+  | docker  | low    |
+  
+  
