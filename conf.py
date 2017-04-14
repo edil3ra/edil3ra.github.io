@@ -136,6 +136,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         # ("/archive.html", "Archive"),
         # ("/categories/", "Tags"),
+        # ("/pages/cv", "CV"),
         ("/pages/cv", "CV"),
     ),
 }

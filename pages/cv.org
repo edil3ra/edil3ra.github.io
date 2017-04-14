@@ -5,71 +5,89 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: my cv with my competences and information about me
+.. description: Cv with competences and information about me
 .. type: text
 #+END_COMMENT
 
-* About me
-  here is a bit about me
 
-* Skills
-  here is my skill
-  #+NIKOLA_LINK: http://google.be
+| Intitulé     |  |
+|--------------+------------------------------|
+| Expérience   | > 4 ans                      |
+| Age          | 27 ans                       |
+| Localisation | Luxembourg                   |
 
-* Backend
-** Languages
-     | name    | level  |
-     |---------+--------|
-     | python  | high   |
-     | django  | medium |
-     | flask   | medium |
-     | nikola  | medium |
-     | node    | medium |
-     | ruby    | low    |
-     | java    | low    |
-     | php     | low    |
-     | clojure | low    |
-     | elixir  | low    |
-     | phoenix | medium |
-     | c       | low    |
-** Databases
-     | name       | level  |
-     |------------+--------|
-     | sql        | medium |
-     | mysql      | medium |
-     | postgresql | medium |
-     | mongo      | low    |
-     | redis      | low    |
-* Front end
-** application/language
-     | name       | level  |
-     |------------+--------|
-     | javascript | medium |
-     | es6        | medium |
-     | typescript | medium |
-     | angular    | medium |
-     | react      | medium |
-** Design
-     | name       | level  |
-     |------------+--------|
-     | html5      | medium |
-     | css        | medium |
-     | scss       | medium |
-     | jquery     | medium |
-     | bootstrap3 | medium |
-     | foundation | medium |
-**  build tools
-   | name    | level  |
-   |---------+--------|
-   | webpack | medium |
-   | gulp    | medium |
-   | grunt   | medium |
 
-* Sys admin
-  | name    | level  |
-  | linux   | medium |
-  | network | medium |
-  | vagrant | medium |
-  | docker  | low    |
-  
+* Compétences techniques
+| Python           | •••• | TypeScript | •••• |
+| Javascript (ES6) | •••  | HTML5      | •••  |
+| CSS3             | •••  | PHP5       | •    |
 
+* Frameworks / CMS
+| Django    | •••  | Flask             | •••  |
+| Angular 2 | •••• | JQuery            | •••• |
+| React     | ••   | Node              | ••   |
+| Boostrap  | •••• | Foundation        | •••• |
+| Sass      | •••• | Responsive design | •••• |
+
+* Database
+| MySQL   | •••  | PostgreSQL | ••• |
+|---------+------+------------+-----|
+| MongoDB | •••• | SQLite     | ••• |
+
+* Architectures & Méthodes
+| OO   | ••• | MVC                    | •••• |
+|------+-----+------------------------+------|
+| Rest | ••• | Functional Programming | •••  |
+
+* Autres
+| Git (GitHub)          | •••   | Webpack | •••• |
+| Gulp                  | •••   | Grunt   | •••• |
+| Npm                   | •••   | Docker  | •••  |
+| Nginx                 | ••    | Bash    | ••   |
+| Linux(Centos, Debian) | ••••• | network | ••   |
+
+* Expérience professionnelle
+| *Vesperia | Software Engineer*   |
+|                                  |
+| /*2016*/                         |
+|----------------------------------+--------------------------------------------------------------------------------------|
+| *Description*                    | *LogDirect:* Ajout de fonctionnalités et correction de bug sur des sites existants   |
+| *Environnement*                  | wordpress, javascript, css, bootstrap, docker                                        |
+| *Description*                    | *atHome*: Réalisation d'un outil de statistique en Typescript avec React.            |
+| *Environnement*                  | Typescript avec React, Framework maison, docker                                      |
+
+| *Vous.lu | Développeur Web*   |
+|                               |
+| /*2015*/                      |
+|-------------------------------+---------------------------------------------------------------------------------|
+| *Description*                 | Réalisation de site web pour l'agence de communication                          |
+| *Environnement*               | Mise à jour de site réalisé avec wordpress, responsive design avec bootstrap.   |
+
+
+*Vesperia Group | Stage de montée en compétence*
+
+/*2016- POO & Design Patterns, Tests Unitaires et ZendFramwork 2*/
+
+*STE-Formations | Développeur Java Cloud Computing*
+
+/*2014 - 2015*/
+
+*Promotion sociale Fléron | Web développeur*
+
+/*2012 / 2014*/
+
+*Promotion sociale Chénée | Web développeur / Designer*
+
+/*2011 / 2012*/
+
+*Langues*
+
+/Français/
+
+|    |    |    | Natif   |
+|----+----+----+---------|
+
+/Anglais/
+
+|    |    | Compétence Pro   |    |
+|----+----+------------------+----|
