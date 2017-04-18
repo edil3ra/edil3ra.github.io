@@ -26,7 +26,7 @@ SITE_URL = "https://github.com/edil3ra/edil3ra.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://github.com/edil3ra/edil3ra.github.io/"
 BLOG_EMAIL = "edil3ra@gmail.com"
-BLOG_DESCRIPTION = "this a blog to talk about development, emacs, self improvement"  # (translatable)
+BLOG_DESCRIPTION = "this a blog to talk about development python and emacs"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -142,7 +142,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "yesplease"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
