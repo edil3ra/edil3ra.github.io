@@ -5,7 +5,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+.. description: tfe
 .. type: text
 #+END_COMMENT
 
@@ -18,96 +18,98 @@
 | Professional experience | 1 ans  |
 
 
+
+#+BEGIN_QUOTE
+Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+-- Abraham Lincoln
+#+END_QUOTE
+
+
+
 * What i like
-  I like to code with in python inside emacs with some music in background.
-  I like to tweak emacs to fit my need.
-  I like to run and walking in nature.
-  I like to read.
+  coding inside emacs with some  music in the background.
 * What i dislike  
-  Php, Wordpress, Drupal
+  Php, Wordpress
 * My technical skills
-
-  | Back end   |      |        |    |
-  |------------+------+--------+----|
-  | Python     | **** | Elisp  | ** |
-  | Node (ES6) | *    | Ruby   | *  |
-  | Php        | *    | Elixir | ** |
-  | Java       | **   |        |    |
-
+***  ♠ _low_    ♥  _medium_   ♦   _high_  ♣   _very high_
+** Backend
+  | Language   |   |        |   |
+  |------------+---+--------+---|
+  | Python     | ♣ | Elisp  | ♥ |
+  | Node (ES6) | ♠ | Ruby   | ♠ |
+  | Php        | ♠ | Elixir | ♥ |
+  | Java       | ♠ |        |   |
 
   
-  | Framework python |    |       |    |
-  |------------------+----+-------+----|
-  | Django           | ** | Flask | ** |
-  | Nikola           | ** |       |    |
+  | Framework python |   |       |   |
+  |------------------+---+-------+---|
+  | Django           | ♥ | Flask | ♥ |
+  | Nikola           | ♥ |       |   |
 
 
 
-  | Framework elixir |    |
-  |------------------+----+
-  | Phoenix          | ** |
+  | Framework elixir |   |
+  |------------------+---|
+  | Phoenix          | ♥ |
 
 
 
   | Framework Php |   |     |   |
   |---------------+---+-----+---|
-  | Symfony       | * | Zf2 | * |
+  | Symfony       | ♠ | Zf2 | ♠ |
 
 
-  
-  | Language        |    |            |    |
-  |-----------------+----+------------+----|
-  | Javascript(es6) | ** | Typescript | ** |
+** Frontend  
+  | Language        |   |            |   |
+  |-----------------+---+------------+---|
+  | Javascript(es6) | ♥ | Typescript | ♥ |
 
 
-
-  | Integration |    |           |    |
-  |-------------+----+-----------+----|
-  | Css         | ** | Sass      | ** |
-  | Jquery      | ** | Bootstrap | ** |
-  | Foundation  | ** |           |    |
-
+  | Integration |   |           |   |
+  |-------------+---+-----------+---|
+  | Css         | ♥ | Sass      | ♥ |
+  | Jquery      | ♥ | Bootstrap | ♥ |
+  | Foundation  | ♥ |           |   |
 
 
-  | Framework |     |       |    |
-  |-----------+-----+-------+----|
-  | Angular2  | *** | React | ** |
+  | Framework |   |       |   |
+  |-----------+---+-------+---|
+  | Angular2  | ♦ | React | ♥ |
 
 
-
-  | Build Tools |     |      |    |
-  |-------------+-----+------+----|
-  | Webpack     | *** | Gulp | ** |
-  | Grunt       | **  |      |    |
-
+  | Build Tools |    |      |    |
+  |-------------+----+------+----|
+  | Webpack     | ♦  | Gulp |♥  |
+  | Grunt       | ♥ |      |    |
 
 
-  | Servers |    |        |   |
-  |---------+----+--------+---|
-  | Nginx   | ** | Apache | * |
+** Others
+  | Servers |   |        |   |
+  |---------+---+--------+---|
+  | Nginx   | ♥ | Apache | ♥ |
 
 
 
-  | Databases |    |            |    |
-  |-----------+----+------------+----|
-  | mysql     | ** | postgresql | ** |
-  | sqlite    | *  | mongo      | *  |
-  | redis     | *  |            |    |
+  | Databases |   |            |   |
+  |-----------+---+------------+---|
+  | Mysql     | ♥ | Postgresql | ♥ |
+  | Sqlite    | ♠ | Mongo      | ♠ |
+  | Redis     | ♠ |            |   |
   
 
   
-  | Framework Php |    |      |     |
-  |---------------+----+------+-----|
-  | slack         | ** | jira | *** |
-  | confluence    | ** |      |     |
+  | Tools      |   |      |   |
+  |------------+---+------+---|
+  | Slack      | ♥ | Jira | ♥ |
+  | Confluence | ♥ |      |   |
 
   
   
-  | Others   |     |               |     |
-  |----------+-----+---------------+-----|
-  | Emacs    | *** | Linux(debian) | *** |
-  | Org-mode | **  | Magit/git     | **  |
-  | Network  | **  | Docker        | **  |
+  | Others   |   |               |   |
+  |----------+---+---------------+---|
+  | Emacs    | ♦ | Linux(debian) | ♦ |
+  | Org-mode | ♥ | Magit/git     | ♥ |
+  | Network  | ♥ | Docker        | ♥ |
 
 
 * Tfe

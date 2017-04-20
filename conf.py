@@ -133,16 +133,22 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
+    # DEFAULT_LANG: (
+    #     ("/archive.html", "Archive"),
+    #     ("/pages/cv", "CV"),
+    # ),
     DEFAULT_LANG: (
-        # ("/archive.html", "Archive"),
-        # ("/categories/", "Tags"),
-        # ("/pages/cv", "CV"),
-        ("/pages/cv", "CV"),
+        ('/archive.html', 'Archives'),
+        ('/categories/index.html', 'Tags'),
+        ((('/page', 'FOO'),
+          ('/bar', 'BAR')), 'BAZ'),
     ),
+    
 }
 
 # Name of the theme to use.
-THEME = "foundation6"
+THEME = "lanyon"
+
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -931,6 +937,7 @@ CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{autho
 #          still needs to be a dict of this format.  (it can be empty if you
 #          do not need formatting)
 # (translatable)
+
 CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
@@ -942,6 +949,8 @@ CONTENT_FOOTER_FORMATS = {
         }
     )
 }
+
+
 
 # A simple copyright tag for inclusion in RSS feeds that works just
 # like CONTENT_FOOTER and CONTENT_FOOTER_FORMATS
@@ -1319,9 +1328,14 @@ UNSLUGIFY_TITLES = True
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+
+GLOBAL_CONTEXT = {
+    "lanyon_subtheme": "theme-base-02"
+}
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+
