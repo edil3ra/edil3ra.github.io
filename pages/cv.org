@@ -117,22 +117,18 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
   I also build a admin zone  django-admin and a calendar with ajax/jquery.
   http://www.liex.be
 * Professional Experience
-| *Vesperia       | Software Engineer*                                |
-|                 |                                                   |
-| /*2016*/        |                                                   |
-|-----------------+---------------------------------------------------|
-| *Description*   | *LogDirect:* Bugfixing on existing website.       |
-| *Environnement* | Wordpress, Jquery, Css, Bootstrap, Docker.        |
-| *Description*   | *atHome*: Building statical tools with typescript |
-| *Environnement* | Typescript and React, home framework, docker.     |
+| *Vesperia -  /*2016*/ | Software Engineer*                                |
+|-----------------------+---------------------------------------------------|
+| *Description*         | *LogDirect:* Bugfixing on existing website.       |
+| *Environnement*       | Wordpress, Jquery, Css, Bootstrap, Docker.        |
+| *Description*         | *atHome*: Building statical tools with typescript |
+| *Environnement*       | Typescript and React, home framework, docker.     |
 
 
-| *Vous.lu        | Web developer*                  |
-|                 |                                 |
-| /*2015*/        |                                 |
-|-----------------+---------------------------------|
-| *Description*   | Building website for the agency |
-| *Environnement* | Wordpress bootstrap             |
+| *Vous.lu - /*2015*/ | Web developer*                  |
+|---------------------+---------------------------------|
+| *Description*       | Building website for the agency |
+| *Environnement*     | Wordpress bootstrap             |
 
 
 

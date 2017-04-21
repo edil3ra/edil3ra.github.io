@@ -12,6 +12,7 @@ ${template_hooks['extra_head']()}
 </head>
 % if lanyon_subtheme:
 <body class="${lanyon_subtheme}">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 %else:
 <body>
 %endif
@@ -23,21 +24,33 @@ ${template_hooks['extra_head']()}
     <!-- Toggleable sidebar -->
     <div class="sidebar" id="sidebar">
         <div class="sidebar-item">
-		Here is my blog, i will make tutorial about emacs and python
+			${sidebar_title}
         </div>
         ${header.html_navigation_links()}
     </div>
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
+	
     <div class="wrap">
-      <div class="masthead">
-          <div class="container">
-			  ${header.html_site_title()}
-			  
-          </div>
-      </div>
+		<div class="masthead">
+			<div class="container">
+				<div class="masthead-wrapper">
+					<ul class="masthead-left">
+						<li>${header.html_site_title()}</li>
+					</ul>
+					<ul class="masthead-right">
+						<a href="#">
+							<i class="fa fa-github"></i>
+						</a>
+					</ul>
+				</ul>
+			</div>
+		</div>
 
+
+
+	  
       <div class="container content" id="content">
         <%block name="content"></%block>
         ${footer.html_footer()}

@@ -21,7 +21,7 @@ BLOG_AUTHOR = "edil3ra"  # (translatable)
 BLOG_TITLE = "edil3ra"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://github.com/edil3ra/edil3ra.github.io/"
+SITE_URL = "https://edil3ra.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://github.com/edil3ra/edil3ra.github.io/"
@@ -916,6 +916,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
+# CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
@@ -1323,12 +1324,10 @@ UNSLUGIFY_TITLES = True
 
 GLOBAL_CONTEXT = {
     "lanyon_subtheme": "theme-base-02",
-    "sidebar-title": "Here is my blog i will make tutorial about emacs"
+    "sidebar_title": "Here is my blog i like to tweak emacs and write code in python, i will make tutorial about it"
 }
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
-
-

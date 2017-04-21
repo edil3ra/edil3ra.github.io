@@ -245,12 +245,20 @@ td,
 th {
   padding: .25rem .5rem;
   border: 1px solid  #e5e5e5;
+  text-align: left;
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
 
 /*
  * Custom type
@@ -320,6 +328,27 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
+.masthead ul{
+	overflow: hidden;
+}
+
+.masthead ul li{
+	list-style-type: none;
+	float: left;
+}
+
+
+.masthead-wrapper {
+	overflow: hidden;
+}
+
+.masthead-left {
+	float: left;
+}
+
+.masthead-right {
+	float: right;
+}
 
 /*
  * Posts and pages
@@ -437,3 +466,5 @@ a.pagination-item:hover {
 .codetable pre {
     overflow-x: scroll;
 }
+
+
