@@ -5,7 +5,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: This page is to talk a bit about my passion, why am i doing this blog
+.. description: this a tutorial for writing music
 .. type: text
 #+END_COMMENT
 

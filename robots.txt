@@ -1,4 +1,4 @@
-Sitemap: https://github.com/edil3ra/edil3ra.github.io/sitemapindex.xml
+Sitemap: https://edil3ra.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: github.com
+Host: edil3ra.github.io
