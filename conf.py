@@ -133,17 +133,9 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
-    # DEFAULT_LANG: (
-    #     ("/archive.html", "Archive"),
-    #     ("/pages/cv", "CV"),
-    # ),
     DEFAULT_LANG: (
-        ('/archive.html', 'Archives'),
-        ('/categories/index.html', 'Tags'),
-        ((('/page', 'FOO'),
-          ('/bar', 'BAR')), 'BAZ'),
+        ("/pages/cv", "CV"),
     ),
-    
 }
 
 # Name of the theme to use.
@@ -1330,7 +1322,8 @@ UNSLUGIFY_TITLES = True
 # It can be anything, data, functions, modules, etc.
 
 GLOBAL_CONTEXT = {
-    "lanyon_subtheme": "theme-base-02"
+    "lanyon_subtheme": "theme-base-02",
+    "sidebar-title": "Here is my blog i will make tutorial about emacs"
 }
 
 # Add functions here and they will be called with template

@@ -1,11 +1,11 @@
 #+BEGIN_COMMENT
-.. title: cv
+.. title: About me
 .. slug: cv
 .. date: 2017-04-10 22:43:18 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
-.. description: tfe
+.. description: my resume
 .. type: text
 #+END_COMMENT
 
@@ -24,10 +24,8 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
 -- Abraham Lincoln
 #+END_QUOTE
 
-
-
 * What i like
-  coding inside emacs with some  music in the background.
+  Coding inside emacs with some  music in the background.
 * What i dislike  
   Php, Wordpress
 * My technical skills
@@ -47,17 +45,14 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
   | Nikola           | ♥ |       |   |
 
 
-
   | Framework elixir |   |
   |------------------+---|
   | Phoenix          | ♥ |
 
 
-
   | Framework Php |   |     |   |
   |---------------+---+-----+---|
   | Symfony       | ♠ | Zf2 | ♠ |
-
 
 ** Frontend  
   | Language        |   |            |   |
@@ -81,7 +76,6 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
   |-------------+----+------+----|
   | Webpack     | ♦  | Gulp |♥  |
   | Grunt       | ♥ |      |    |
-
 
 ** Others
   | Servers |   |        |   |
@@ -111,13 +105,17 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
   | Org-mode | ♥ | Magit/git     | ♥ |
   | Network  | ♥ | Docker        | ♥ |
 
+** Human Language
+|---------+---|
+| French  | ♣ |
+| English | ♦ |
+|---------+---|
 
-* Tfe
-  I had to build a website, for my tfe, i could choose my techonology, so i build it with python and django.
+* Final
+  I had to build a website, for my final, i could choose my techonology, so i build it with python and django.
   I was learning the framework and the language in the same time, so it's not perfect, but it made the job.
   I also build a admin zone  django-admin and a calendar with ajax/jquery.
   http://www.liex.be
-
 * Professional Experience
 | *Vesperia       | Software Engineer*                                |
 |                 |                                                   |
@@ -158,8 +156,4 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
 
 
 
-* Language
-|---------+---------------|
-| French  | Mother tongue |
-| English | Very good     |
-|---------+---------------|
+
