@@ -25,6 +25,7 @@ SITE_URL = "https://edil3ra.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 BASE_URL = "https://github.com/edil3ra/edil3ra.github.io/"
+BASE_URL = "https://edil3ra.github.io/"
 BLOG_EMAIL = "edil3ra@gmail.com"
 BLOG_DESCRIPTION = "this a blog to talk about development python and emacs"  # (translatable)
 
