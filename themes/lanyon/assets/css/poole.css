@@ -328,23 +328,28 @@ thead {
   letter-spacing: 0;
 }
 
-.masthead ul{
-	overflow: hidden;
-}
-
-.masthead ul li{
-	list-style-type: none;
-	float: left;
-}
-
-
 .masthead-wrapper {
 	overflow: hidden;
 }
 
+.masthead-wrapper ul{
+	list-style-type: none;
+}
+
+
 .masthead-left {
 	float: left;
+	padding: 0;
 }
+
+.masthead-right {
+	float: right;
+}
+
+
+
+
+
 
 .masthead-right {
 	float: right;
@@ -466,5 +471,12 @@ a.pagination-item:hover {
 .codetable pre {
     overflow-x: scroll;
 }
+
+
+a i {
+	color: black;
+
+}
+
 
 
