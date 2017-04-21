@@ -2,7 +2,7 @@ ENVIRONMENT := _env/
 
 
 $(ENVIRONMENT):
-	python3 -m venv "$@"
+	python3.6 -m venv "$@"
 
 default: help
 
@@ -17,6 +17,5 @@ setup:
 	@echo "pip install jedi rope flake8 importmagic yapf;"
 help:
 	@echo "To setup Nikola environment, please use 'eval \$$(make setup)'."
-
 up:
 	@echo "source _env/bin/activate"
