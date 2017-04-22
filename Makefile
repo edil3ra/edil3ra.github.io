@@ -20,10 +20,3 @@ help:
 	@echo "To setup Nikola environment, please use 'eval \$$(make setup)'."
 up:
 	@echo "source _env/bin/activate"
-
-
-pandoc  ./themes/lanyon/assets/files/
-
-  -f FORMAT, -r FORMAT  --from=FORMAT, --read=FORMAT                    
-  -t FORMAT, -w FORMAT  --to=FORMAT, --write=FORMAT                     
-  -o FILENAME           --output=FILENAME                               
