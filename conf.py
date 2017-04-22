@@ -141,6 +141,7 @@ NAVIGATION_LINKS = {
 
 # Name of the theme to use.
 THEME = "lanyon"
+# THEME = "zen"
 
 
 # Primary color of your theme. This will be used to customize your theme and
@@ -1327,7 +1328,7 @@ GLOBAL_CONTEXT = {
     "lanyon_subtheme": "theme-base-02",
     "sidebar_title": "Here is my blog i like to tweak emacs and write code in python, i will make tutorial about it",
     "github_link": "https://github.com/edil3ra/",
-    "linkedin_link": "https://www.linkedin.com/feed/"
+    "linkedin_link": "https://www.linkedin.com/feed/",
 }
 
 # Add functions here and they will be called with template
