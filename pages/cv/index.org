@@ -10,13 +10,11 @@
 #+END_COMMENT
 
 
-
 | About me                |        |
 |-------------------------+--------|
 | Age                     | 27 ans |
 | Personnal experience    | 6 ans  |
 | Professional experience | 1 ans  |
-
 
 
 #+BEGIN_QUOTE
@@ -29,7 +27,7 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
 * What i dislike  
   Php, Wordpress
 * My technical skills
-***  ♠ _low_    ♥  _medium_   ♦   _high_  ♣   _very high_
+*** ♣   _very high_   ♦  _high_  ♥  _medium_  ♠  _low_
 ** Backend
   | Language   |   |        |   |
   |------------+---+--------+---|
