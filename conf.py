@@ -1329,7 +1329,8 @@ GLOBAL_CONTEXT = {
     "sidebar_title": "Here is my blog i like to tweak emacs and write code in python, i will make tutorial about it",
     "github_link": "https://github.com/edil3ra/",
     "linkedin_link": "https://www.linkedin.com/feed/",
-    "stack_link" : "http://stackoverflow.com/users/5858449/houba-vincent"
+    "stack_link" : "http://stackoverflow.com/users/5858449/houba-vincent",
+    "cv": "/assets/files/cv.pdf"
 }
 
 # Add functions here and they will be called with template
