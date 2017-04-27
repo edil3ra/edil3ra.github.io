@@ -9,4 +9,4 @@
    pandoc ./pages/cv.org -f org -t latex -o ./themes/lanyon/assets/files/cv.pdf --latex-engine=xelatex
 
 # deploy
-	
+	nikola github_deploy	

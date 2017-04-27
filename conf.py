@@ -1330,7 +1330,7 @@ GLOBAL_CONTEXT = {
     "github_link": "https://github.com/edil3ra/",
     "linkedin_link": "https://www.linkedin.com/feed/",
     "stack_link" : "http://stackoverflow.com/users/5858449/houba-vincent",
-    "cv": "/assets/files/cv.pdf"
+    "cv": "assets/files/cv.pdf"
 }
 
 # Add functions here and they will be called with template
