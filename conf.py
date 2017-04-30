@@ -133,21 +133,48 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         ("/pages/cv", "<i class=\"fa fa-github fa-2x\"></i>"),
+#         ("/pages/cv", "<i class=\"fa fa-github fa-2x\"></i>"),
+#         ("/pages/cv", "uthoenutheo"),
+#         ("/pages/cv", "uthoenuto"),
+#     ),
+# }
+
+
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/pages/cv", "<i class=\"fa fa-github fa-2x\"></i>"),
-        ("/pages/cv", "<i class=\"fa fa-github fa-2x\"></i>"),
-        ("/pages/cv", "uthoenutheo"),
-    ),
+        (
+            ('/index.html', 'Home', 'fa fa-home'),
+            ('/archive.html', 'Archives', 'fa fa-archive'),
+            ('/archive.html', 'tags', 'fa fa-tags'),
+            ('/rss.xml', 'RSS', 'fa fa-rss'),
+        ),
+        (
+            ('/rss.xml', 'About me', 'fa fa-user'),
+            ('/rss.xml', 'Github', 'fa fa-github'),
+            ('/rss.xml', 'linkedin', 'fa fa-linkedin'),
+            ('/rss.xml', 'stack', 'fa fa-stack-overflow'),
+        ),
+        (
+            ('/rss.xml', 'cv', 'fa fa-download'),
+        )
+    )
 }
 
 
+# ('/index.html', 'Home', 'icon-home'),
+# ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+# ('/categories/index.html', 'Tags', 'icon-tags'),
+# ('/rss.xml', 'RSS', 'icon-rss'),
+# ('https://getnikola.com', 'About me', 'icon-user'),
+# ('https://twitter.com/getnikola', 'My Twitter', 'icon-twitter'),
+# ('https://github.com/getnikola', 'My Github', 'icon-github'),
+
 MASTHEAD_LINKS = {
     DEFAULT_LANG: (
-        ("/thueot", "hello"),
-        ("/thueot", "hello"),
-        ("/thueot", "hello"),
-        ("/thueot", "hello"),
+        # ('/index.html', 'Home', 'icon-home'),
     ),
 }
 

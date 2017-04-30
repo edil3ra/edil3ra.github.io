@@ -12,56 +12,17 @@ ${template_hooks['extra_head']()}
 </head>
 % if lanyon_subtheme:
 <body class="${lanyon_subtheme}">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 %else:
 <body>
 %endif
-    <a href="#content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>
-    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-            styles, `#sidebar-checkbox` for behavior. -->
-    <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-    <!-- Toggleable sidebar -->
-    <div class="sidebar" id="sidebar">
-        ${header.html_navigation_links()}
-    </div>
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
+	<nav class="sidebar">
+		${header.html_navigation_links()}
+	</nav>
 	
     <div class="wrap">
 		<div class="masthead">
 			<div class="container">
-				<div class="masthead-wrapper">
-					<div class="masthead-left">
-						<ul>
-							<li>${header.html_site_title()}</li>
-						</ul>
-					</div>
-					<div class="masthead-right">
-						<ul>
-							<li>
-								<a href="${github_link}">
-									<i class="fa fa-github fa-2x"></i>
-								</a>
-							</li>
-							<li>
-								<a href="${linkedin_link}">
-									<i class="fa fa-linkedin fa-2x"></i>
-								</a>
-							</li>
-							<li>
-								<a href="${stack_link}">
-									<i class="fa fa-stack-overflow fa-2x"></i>
-								</a>
-							</li>
-							<li>
-								<a href="${cv}">
-									<i class="fa fa-download fa-2x"></i>
-								</a>
-							</li>
-						</ul>
-					</div>
-				</div>
+				${header.html_site_title()}
 			</div>
 		</div>
 		<div class="container content" id="content">

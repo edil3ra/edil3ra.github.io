@@ -21,7 +21,6 @@
  * Custom type
  * Messages
  * Container
- * Masthead
  * Posts and pages
  * Pagination
  * Reverse layout
@@ -301,63 +300,6 @@ thead {
   margin-right: auto;
 }
 
-
-/*
- * Masthead
- *
- * Super small header above the content for site name and short description.
- */
-
-.masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
-}
-.masthead-title {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: #505050;
-}
-.masthead-title a {
-  color: #505050;
-}
-.masthead-title small {
-  font-size: 75%;
-  font-weight: 400;
-  color: #c0c0c0;
-  letter-spacing: 0;
-}
-
-.masthead-wrapper {
-	overflow: hidden;
-}
-
-.masthead-left {
-	float: left;
-}
-
-.masthead-right {
-	float: right;
-}
-
-.masthead-left ul, .masthead-right ul {
-	padding: 0;
-	list-style-type: none;
-	overflow: hidden;
-}
-
-.masthead-left ul, .masthead-right ul {
-	list-style-type: none;
-	overflow: hidden;
-}
-
-.masthead-left ul li, .masthead-right ul li {
-	float: left
-}
-
-.masthead-right ul li {
-	margin-left: 0.3rem;
-}
 
 
 /*
