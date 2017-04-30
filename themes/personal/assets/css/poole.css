@@ -332,28 +332,33 @@ thead {
 	overflow: hidden;
 }
 
-.masthead-wrapper ul{
-	list-style-type: none;
-}
-
-
 .masthead-left {
 	float: left;
+}
+
+.masthead-right {
+	float: right;
+}
+
+.masthead-left ul, .masthead-right ul {
 	padding: 0;
+	list-style-type: none;
+	overflow: hidden;
 }
 
-.masthead-right {
-	float: right;
+.masthead-left ul, .masthead-right ul {
+	list-style-type: none;
+	overflow: hidden;
 }
 
-
-
-
-
-
-.masthead-right {
-	float: right;
+.masthead-left ul li, .masthead-right ul li {
+	float: left
 }
+
+.masthead-right ul li {
+	margin-left: 0.3rem;
+}
+
 
 /*
  * Posts and pages

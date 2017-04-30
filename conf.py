@@ -27,7 +27,7 @@ SITE_URL = "https://edil3ra.github.io/"
 BASE_URL = "https://github.com/edil3ra/edil3ra.github.io/"
 BASE_URL = "https://edil3ra.github.io/"
 BLOG_EMAIL = "edil3ra@gmail.com"
-BLOG_DESCRIPTION = "this a blog to talk about development python and emacs"  # (translatable)
+BLOG_DESCRIPTION = "my blog to talk about programming in general" 
 
 # Nikola is multilingual!
 #
@@ -135,13 +135,27 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/pages/cv", "CV"),
+        ("/pages/cv", "<i class=\"fa fa-github fa-2x\"></i>"),
+        ("/pages/cv", "<i class=\"fa fa-github fa-2x\"></i>"),
+        ("/pages/cv", "uthoenutheo"),
     ),
 }
 
+
+MASTHEAD_LINKS = {
+    DEFAULT_LANG: (
+        ("/thueot", "hello"),
+        ("/thueot", "hello"),
+        ("/thueot", "hello"),
+        ("/thueot", "hello"),
+    ),
+}
+
+
+
 # Name of the theme to use.
-THEME = "lanyon"
-# THEME = "zen"
+# THEME = "lanyon"
+THEME = "personal"
 
 
 # Primary color of your theme. This will be used to customize your theme and
@@ -1267,6 +1281,7 @@ UNSLUGIFY_TITLES = True
 # site loading faster in a HTTP/1.1 environment but is not recommended for
 # HTTP/2.0 when caching is used. Defaults to True.
 # USE_BUNDLES = True
+USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
@@ -1325,10 +1340,10 @@ UNSLUGIFY_TITLES = True
 # It can be anything, data, functions, modules, etc.
 
 GLOBAL_CONTEXT = {
-    "lanyon_subtheme": "theme-base-02",
+    "lanyon_subtheme": "theme-base-01``",
     "sidebar_title": "Here is my blog i like to tweak emacs and write code in python, i will make tutorial about it",
-    "github_link": "https://github.com/edil3ra/",
-    "linkedin_link": "https://www.linkedin.com/feed/",
+    "github_link": "https://github.com/edil3ra",
+    "linkedin_link": "https://www.linkedin.com/feed",
     "stack_link" : "http://stackoverflow.com/users/5858449/houba-vincent",
     "cv": "assets/files/cv.pdf"
 }
