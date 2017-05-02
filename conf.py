@@ -140,21 +140,21 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_BASE_LINKS = (
     ('/index.html', 'Home', 'fa fa-home'),
     ('/archive.html', 'Archives', 'fa fa-archive'),
-    ('/archive.html', 'tags', 'fa fa-tags'),
+    # ('/tags.html', 'tags', 'fa fa-tags'),
     ('/rss.xml', 'RSS', 'fa fa-rss'),
 )   
 
 
 NAVIGATION_SOCIAL_LINKS = (
-    ('/rss.xml', 'About me', 'fa fa-user'),
-    ('/rss.xml', 'Github', 'fa fa-github'),
-    ('/rss.xml', 'linkedin', 'fa fa-linkedin'),
-    ('/rss.xml', 'stack', 'fa fa-stack-overflow'),
+    ('pages/cv/index.html', 'About me', 'fa fa-user'),
+    ('https://github.com/edil3ra', 'Github', 'fa fa-github'),
+    ('https://www.linkedin.com/in/vincent-houba-866525b6/', 'linkedin', 'fa fa-linkedin'),
+    ('http://stackoverflow.com/users/5858449/edil3ra', 'stack', 'fa fa-stack-overflow'),
 )
 
 
 NAVIGATION_OTHERS_LINKS = (
-    ('/rss.xml', 'cv', 'fa fa-download'),
+    ('assets/files/cv.pdf', 'cv', 'fa fa-download'),
 )   
 
 NAVIGATION_LINKS = {
@@ -1381,10 +1381,9 @@ USE_BUNDLES = False
 
 GLOBAL_CONTEXT = {
     "lanyon_subtheme": "theme-base-01",
-    "sidebar_title": "Here is my blog i like to tweak emacs and write code in python, i will make tutorial about it",
     "github_link": "https://github.com/edil3ra",
-    "linkedin_link": "https://www.linkedin.com/feed",
-    "stack_link" : "http://stackoverflow.com/users/5858449/houba-vincent",
+    "linkedin_link": "https://www.linkedin.com/in/vincent-houba-866525b6/",
+    "stack_link" : "http://stackoverflow.com/users/5858449/edil3ra",
     "cv": "assets/files/cv.pdf",
 }
 
