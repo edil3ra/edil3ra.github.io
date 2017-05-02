@@ -146,7 +146,7 @@ NAVIGATION_BASE_LINKS = (
 
 
 NAVIGATION_SOCIAL_LINKS = (
-    ('pages/cv/index.html', 'About me', 'fa fa-user'),
+    ('/pages/cv/index.html', 'About me', 'fa fa-user'),
     ('https://github.com/edil3ra', 'Github', 'fa fa-github'),
     ('https://www.linkedin.com/in/vincent-houba-866525b6/', 'linkedin', 'fa fa-linkedin'),
     ('http://stackoverflow.com/users/5858449/edil3ra', 'stack', 'fa fa-stack-overflow'),
@@ -154,7 +154,7 @@ NAVIGATION_SOCIAL_LINKS = (
 
 
 NAVIGATION_OTHERS_LINKS = (
-    ('assets/files/cv.pdf', 'cv', 'fa fa-download'),
+    ('/assets/files/cv.pdf', 'cv', 'fa fa-download'),
 )   
 
 NAVIGATION_LINKS = {

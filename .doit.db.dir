@@ -71,7 +71,7 @@
 'copy_assets:output/assets/css/bootstrap.min.css.map', (111616, 618)
 'copy_assets:output/assets/css/images/ie6/borderMiddleRight.png', (84992, 646)
 'copy_assets:output/assets/css/poole.css', (261632, 383)
-'sitemap:output/sitemap.xml', (290304, 1251)
+'sitemap:output/sitemap.xml', (290304, 1246)
 'copy_assets:output/assets/css/ipython.min.css', (183808, 745)
 'copy_assets:output/assets/js/colorbox-i18n/jquery.colorbox-fr.js', (148480, 652)
 'copy_assets:output/assets/js/colorbox-i18n/jquery.colorbox-hu.js', (135168, 652)
