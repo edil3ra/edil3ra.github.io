@@ -97,5 +97,3 @@
   ("g" my/kill-buffer :color red)
   ("q" nil :color blue))
 #+END_SRC
-
-
