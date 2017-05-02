@@ -135,33 +135,33 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-# NAVIGATION_LINKS = {
-#     DEFAULT_LANG: (
-#         ("/pages/cv", "<i class=\"fa fa-github fa-2x\"></i>"),
-#         ("/pages/cv", "<i class=\"fa fa-github fa-2x\"></i>"),
-#         ("/pages/cv", "uthoenutheo"),
-#         ("/pages/cv", "uthoenuto"),
-#     ),
-# }
 
+
+NAVIGATION_BASE_LINKS = (
+    ('/index.html', 'Home', 'fa fa-home'),
+    ('/archive.html', 'Archives', 'fa fa-archive'),
+    ('/archive.html', 'tags', 'fa fa-tags'),
+    ('/rss.xml', 'RSS', 'fa fa-rss'),
+)   
+
+
+NAVIGATION_SOCIAL_LINKS = (
+    ('/rss.xml', 'About me', 'fa fa-user'),
+    ('/rss.xml', 'Github', 'fa fa-github'),
+    ('/rss.xml', 'linkedin', 'fa fa-linkedin'),
+    ('/rss.xml', 'stack', 'fa fa-stack-overflow'),
+)
+
+
+NAVIGATION_OTHERS_LINKS = (
+    ('/rss.xml', 'cv', 'fa fa-download'),
+)   
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        (
-            ('/index.html', 'Home', 'fa fa-home'),
-            ('/archive.html', 'Archives', 'fa fa-archive'),
-            ('/archive.html', 'tags', 'fa fa-tags'),
-            ('/rss.xml', 'RSS', 'fa fa-rss'),
-        ),
-        (
-            ('/rss.xml', 'About me', 'fa fa-user'),
-            ('/rss.xml', 'Github', 'fa fa-github'),
-            ('/rss.xml', 'linkedin', 'fa fa-linkedin'),
-            ('/rss.xml', 'stack', 'fa fa-stack-overflow'),
-        ),
-        (
-            ('/rss.xml', 'cv', 'fa fa-download'),
-        )
+        NAVIGATION_BASE_LINKS,
+        NAVIGATION_SOCIAL_LINKS,
+        NAVIGATION_OTHERS_LINKS ,
     )
 }
 
