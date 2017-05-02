@@ -3,8 +3,10 @@
 from __future__ import unicode_literals
 import time
 
+
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
+import settings
 
 
 # ! Some settings can be different in different languages.
@@ -164,13 +166,7 @@ NAVIGATION_LINKS = {
 }
 
 
-# ('/index.html', 'Home', 'icon-home'),
-# ('/archive.html', 'Archives', 'icon-folder-open-alt'),
-# ('/categories/index.html', 'Tags', 'icon-tags'),
-# ('/rss.xml', 'RSS', 'icon-rss'),
-# ('https://getnikola.com', 'About me', 'icon-user'),
-# ('https://twitter.com/getnikola', 'My Twitter', 'icon-twitter'),
-# ('https://github.com/getnikola', 'My Github', 'icon-github'),
+
 
 MASTHEAD_LINKS = {
     DEFAULT_LANG: (
@@ -961,9 +957,14 @@ LICENSE = ""
 # (translatable)
 # CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 CONTENT_FOOTER = '''
+<blockquote>
+  <p>{value_quote} - <quote> {author_quote} </quote></p>
+</blockquote>
+
 <p>
 <a href="mailto:{email}">{email}</a>
 </p>
+
 '''
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
@@ -978,6 +979,9 @@ CONTENT_FOOTER = '''
 #          do not need formatting)
 # (translatable)
 
+
+quote = settings.quote_random()
+
 CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
@@ -985,7 +989,9 @@ CONTENT_FOOTER_FORMATS = {
             "email": BLOG_EMAIL,
             "author": BLOG_AUTHOR,
             "date": time.gmtime().tm_year,
-            "license": LICENSE
+            "license": LICENSE,
+            "author_quote": quote['author'] ,
+            "value_quote": quote['quote']
         }
     )
 }
@@ -1371,13 +1377,15 @@ USE_BUNDLES = False
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 
+
+
 GLOBAL_CONTEXT = {
-    "lanyon_subtheme": "theme-base-01``",
+    "lanyon_subtheme": "theme-base-01",
     "sidebar_title": "Here is my blog i like to tweak emacs and write code in python, i will make tutorial about it",
     "github_link": "https://github.com/edil3ra",
     "linkedin_link": "https://www.linkedin.com/feed",
     "stack_link" : "http://stackoverflow.com/users/5858449/houba-vincent",
-    "cv": "assets/files/cv.pdf"
+    "cv": "assets/files/cv.pdf",
 }
 
 # Add functions here and they will be called with template

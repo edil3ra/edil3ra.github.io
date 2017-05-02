@@ -934,17 +934,41 @@ a.pagination-item:hover {
  *
  */
 
-footer {
+.footer {
 	background: black;
 	color: white;
+	border-top: 2px solid #777;
 }
 
-footer p {
+.footer blockquote {
+	text-align: center;
+	border: none;
+	padding: 0;
+	margin: 0;
+	/* margin-bottom: 1em; */
+	/* margin-bottom: 1em; */
+}
+
+.footer blockquote p{
+	padding-top: 0.8em;
+	padding-bottom: 0.8em;
+	color: #fff;
+	font-size: 1.2em;
+	line-height: 1em;
+}
+
+.footer blockquote p quote{
+	font-weight: bold;
+	font-size: 0.8em;
+}
+
+.footer p {
 	text-align: center;
 	margin: 0;
-	line-height: 3rem;
+	padding-bottom: 0.8em;
 }
 
-footer p a{
+.footer p a{
 	color: white;
 }
+
