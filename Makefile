@@ -2,7 +2,7 @@ ENVIRONMENT := _env/
 
 
 $(ENVIRONMENT):
-	python3.6 -m venv "$@"
+	python3 -m venv "$@"
 
 default: help
 
@@ -14,7 +14,7 @@ setup:
 	@echo "make $(ENVIRONMENT);"
 	@echo "source $(ENVIRONMENT)bin/activate;"
 	@echo "pip install --upgrade pip 'Nikola[extras]';"
-	@echo "pip install jedi rope flake8 importmagic yapf ipython-4.1.2;"
+	@echo "pip install jedi rope flake8 importmagic yapf ipython==4.2.1;"
 	@echo "pip install pypandoc;"
 help:
 	@echo "To setup Nikola environment, please use 'eval \$$(make setup)'."
