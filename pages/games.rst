@@ -2,9 +2,19 @@
 .. slug: games
 .. date: 2017-05-13 11:03:23 UTC+02:00
 .. tags: 
-.. category: 
+.. category: games
 .. link: 
-.. description: 
-.. type: text
+.. description: list of games that i build
+.. type: games
 
-Write your page here.
+
+.. raw:: html
+		 
+    <ul>
+      <li><a href="/games/pong"><img alt="pong" src="/images/games/pong.png"/></a>
+	    <p>A very dynamic pong with a kicking ia :-)</p>
+	  </li>
+    </ul>
+
+
+

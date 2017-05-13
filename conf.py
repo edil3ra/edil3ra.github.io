@@ -29,7 +29,7 @@ SITE_URL = "https://edil3ra.github.io/"
 BASE_URL = "https://github.com/edil3ra/edil3ra.github.io/"
 BASE_URL = "https://edil3ra.github.io/"
 BLOG_EMAIL = "edil3ra@gmail.com"
-BLOG_DESCRIPTION = "my blog to talk about programming in general" 
+BLOG_DESCRIPTION = "my blog to talk about programming in general, my cv, games that i build" 
 
 # Nikola is multilingual!
 #
@@ -284,7 +284,7 @@ TIMEZONE = "Europe/Luxembourg"
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
 # Default is:
-# FILES_FOLDERS = {'files': ''}
+FILES_FOLDERS = {'games': 'games'}
 # Which means copy 'files' into 'output'
 
 # One or more folders containing code listings to be processed and published on
@@ -469,7 +469,7 @@ HIDDEN_TAGS = ['mathjax']
 #     output / TRANSLATION[lang] / CATEGORIES_INDEX_PATH
 # with an arbitrary relative path CATEGORIES_INDEX_PATH.
 # (translatable)
-# CATEGORIES_INDEX_PATH = "categories.html"
+CATEGORIES_INDEX_PATH = "categories.html"
 
 # If CATEGORY_ALLOW_HIERARCHIES is set to True, categories can be organized in
 # hierarchies. For a post, the whole path in the hierarchy must be specified,
@@ -483,17 +483,17 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 
 # If CATEGORY_PAGES_ARE_INDEXES is set to True, each category's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-# CATEGORY_PAGES_ARE_INDEXES = False
+CATEGORY_PAGES_ARE_INDEXES = False
 
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the category list or index page’s title.
-# CATEGORY_PAGES_DESCRIPTIONS = {
-#    DEFAULT_LANG: {
-#        "blogging": "Meta-blog posts about blogging about blogging.",
-#        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
-#    },
-# }
+CATEGORY_PAGES_DESCRIPTIONS = {
+   DEFAULT_LANG: {
+       "games": "Meta-blog posts about blogging about blogging.",
+       "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
+   },
+}
 
 # Set special titles for category pages. The default is "Posts about CATEGORY".
 # CATEGORY_PAGES_TITLES = {
