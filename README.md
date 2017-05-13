@@ -6,5 +6,5 @@
 
 # copy games
 ## pong
-	svn export https://github.com/edil3ra/pong/trunk/public games/pong
+	svn export https://github.com/edil3ra/pong/trunk/public games/pong --force
 
