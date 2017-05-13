@@ -154,7 +154,7 @@ NAVIGATION_SOCIAL_LINKS = (
 
 
 NAVIGATION_OTHERS_LINKS = (
-    ('/assets/files/cv.pdf', 'cv', 'fa fa-download'),
+    
 )   
 
 NAVIGATION_LINKS = {

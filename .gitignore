@@ -1,8 +1,10 @@
 *.py[cod]
+.doit.db.bak
+.doit.db.dat
+.doit.db.dir
 __pycache__
 cache
 output
-.doit.db.*
 _env/
 nikola
 zzz
