@@ -6,11 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://edil3ra.github.io/categories/cat_test.xml</loc>
+  <lastmod>2017-05-13T11:40:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://edil3ra.github.io/categories/test-hello-world.xml</loc>
+  <lastmod>2017-05-13T11:40:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://edil3ra.github.io/galleries/demo/rss.xml</loc>
+  <lastmod>2017-05-13T11:40:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://edil3ra.github.io/galleries/rss.xml</loc>
+  <lastmod>2017-05-13T11:40:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://edil3ra.github.io/rss.xml</loc>
-  <lastmod>2017-05-02T17:59:00Z</lastmod>
+  <lastmod>2017-05-13T11:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://edil3ra.github.io/sitemap.xml</loc>
-  <lastmod>2017-05-02T18:24:00Z</lastmod>
+  <lastmod>2017-05-13T11:40:00Z</lastmod>
  </sitemap>
 </sitemapindex>
