@@ -154,7 +154,7 @@ NAVIGATION_SOCIAL_LINKS = (
 
 
 NAVIGATION_OTHERS_LINKS = (
-    
+    ('/pages/games/index.html', 'Games', 'fa fa-gamepad'),
 )   
 
 NAVIGATION_LINKS = {
