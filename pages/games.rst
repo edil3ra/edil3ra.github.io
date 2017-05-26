@@ -14,6 +14,9 @@
       <li><a href="/games/pong"><img alt="pong" src="/images/games/pong.png"/></a>
 	    <p>A very dynamic pong with a kicking ia :-)</p>
 	  </li>
+	  <li><a href="/games/pong"><img alt="pong" src="/images/games/pong.png"/></a>
+	    <p>Game of life build with react</p>
+	  </li>
     </ul>
 
 
