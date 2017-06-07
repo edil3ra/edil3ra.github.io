@@ -1,12 +1,11 @@
-.. title: games
-.. slug: games
-.. date: 2017-05-13 11:03:23 UTC+02:00
+.. title: projects
+.. slug: projects
+.. date: 2017-06-07 15:42:09 UTC+02:00
 .. tags: 
-.. category: games
+.. category: projects
 .. link: 
-.. description: list of games that i build
+.. description: This is an non exhaustive list of my personnal projects.
 .. type: games
-
 
 .. raw:: html
 		 
@@ -18,6 +17,9 @@
 	    <p>First project with react and typescript, it a basic implementatation of the game of life with a lot of option</p>
 	  </li>
     </ul>
+
+
+
 
 
 
