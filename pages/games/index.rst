@@ -4,20 +4,16 @@
 .. tags: 
 .. category: games
 .. link: 
-.. description: list of games that i build
+.. description: list of games that i built with different languages and frameworks
 .. type: games
 
 
 .. raw:: html
 		 
     <ul>
-      <li><a href="/games/pong"><img alt="pong" width="400" height="400" src="/images/games/pong.png"/></a>
-	    <p>A very dynamic pong with a kicking ia :-)</p>
-	  </li>
-	  <li><a href="/games/life"><img width="400" height="400" alt="life" src="/images/games/life.png"/></a>
-	    <p>First project with react and typescript, it a basic implementatation of the game of life with a lot of option</p>
+      <li><a href="http://www.liex.be"><img alt="liex" width="400" height="400" src="/images/projects/liex.png"/></a>
+	    <p>I build this website for a lawer firm, this is one of my first real project, it's using django, mysql for the backend and bootstrap for the front.</p>
 	  </li>
     </ul>
-
 
 

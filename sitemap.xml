@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://edil3ra.github.io/archive.html</loc>
-  <lastmod>2017-06-02T10:08:00Z</lastmod>
+  <lastmod>2017-06-07T13:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://edil3ra.github.io/categories.html</loc>
-  <lastmod>2017-06-02T10:08:00Z</lastmod>
+  <lastmod>2017-06-07T13:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://edil3ra.github.io/categories/</loc>
@@ -56,6 +56,10 @@
  <url>
   <loc>https://edil3ra.github.io/pages/games/</loc>
   <lastmod>2017-05-26T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://edil3ra.github.io/pages/projects/</loc>
+  <lastmod>2017-06-07T13:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://edil3ra.github.io/posts/listen-to-music-with-emacs-using-bongo/</loc>
