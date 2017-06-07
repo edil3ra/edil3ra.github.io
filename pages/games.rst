@@ -1,5 +1,5 @@
-.. title: projects
-.. slug: projects
+.. title: games
+.. slug: games
 .. date: 2017-06-07 15:42:09 UTC+02:00
 .. tags: 
 .. category: projects
