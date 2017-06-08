@@ -3,10 +3,10 @@
 .. slug: cv
 .. date: 2017-04-10 22:43:18 UTC+02:00
 .. tags: 
-.. category: 
+.. category: cv
 .. link: 
 .. description: my resume
-.. type: text
+.. type: cv
 #+END_COMMENT
 
 
@@ -22,92 +22,91 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
 -- Abraham Lincoln
 #+END_QUOTE
 
-* What i like
-  Coding inside emacs with some  music in the background.
-* What i dislike  
-  Php, Wordpress
-* My technical skills
-*** ♣   _very high_   ♦  _high_  ♥  _medium_  ♠  _low_
+* Technical Skills
+*** {1}   _low_   {2}  _medium_  {3}  _high_  {4}  _master_
 ** Backend
-  | Language   |   |        |   |
-  |------------+---+--------+---|
-  | Python     | ♣ | Elisp  | ♥ |
-  | Node (ES6) | ♠ | Ruby   | ♠ |
-  | Php        | ♠ | Elixir | ♥ |
-  | Java       | ♠ |        |   |
+  | Language   |     |         |     |
+  |------------+-----+---------+-----|
+  | Python     | {4} | Elisp   | {2} |
+  | Node (ES6) | {2} | Ruby    | {2} |
+  | Elixir     | {1} | Php     | {1} |
+  | Java       | {1} | Clojure | {1} |
+
 
   
-  | Framework python |   |       |   |
-  |------------------+---+-------+---|
-  | Django           | ♥ | Flask | ♥ |
-  | Nikola           | ♥ |       |   |
+  | Framework python |     |         |     |
+  |------------------+-----+---------+-----|
+  | Django           | {2} | Flask   | {2} |
+  | Nikola           | {2} | Tornado | {1} |
 
 
-  | Framework elixir |   |
-  |------------------+---|
-  | Phoenix          | ♥ |
+  | Framework elixir |     |
+  |------------------+-----|
+  | Phoenix          | {1} |
 
 
-  | Framework Php |   |     |   |
-  |---------------+---+-----+---|
-  | Symfony       | ♠ | Zf2 | ♠ |
+  | Framework Php |     |     |     |
+  |---------------+-----+-----+-----|
+  | Symfony       | {1} | Zf2 | {1} |
 
 ** Frontend  
-  | Language        |   |            |   |
-  |-----------------+---+------------+---|
-  | Javascript(es6) | ♥ | Typescript | ♥ |
+  | Language        |     |            |     |
+  |-----------------+-----+------------+-----|
+  | Javascript(es6) | {3} | Typescript | {3} |
+  | Elm             | {2} |            |     |
 
 
-  | Integration |   |           |   |
-  |-------------+---+-----------+---|
-  | Css         | ♥ | Sass      | ♥ |
-  | Jquery      | ♥ | Bootstrap | ♥ |
-  | Foundation  | ♥ |           |   |
+
+  | Integration |     |             |     |
+  |-------------+-----+-------------+-----|
+  | Css         | {2} | Sass        | {2} |
+  | Jquery      | {2} | Bootstrap   | {2} |
+  | Foundation  | {3} | Materialize | {2} |
 
 
-  | Framework |   |       |   |
-  |-----------+---+-------+---|
-  | Angular2  | ♦ | React | ♥ |
+  | Framework |     |       |     |
+  |-----------+-----+-------+-----|
+  | Angular2  | {3} | React | {2} |
+  | Vuejs     | {1} |       |     |
 
 
-  | Build Tools |    |      |    |
-  |-------------+----+------+----|
-  | Webpack     | ♦  | Gulp |♥  |
-  | Grunt       | ♥ |      |    |
+  | Build Tools |     |        |     |
+  |-------------+-----+--------+-----|
+  | Webpack     | {2} | Brunch | {3} |
+  | gulp        | {1} | Grunt  | {1} |
 
 ** Others
-  | Servers |   |        |   |
-  |---------+---+--------+---|
-  | Nginx   | ♥ | Apache | ♥ |
+  | Servers |     |        |     |
+  |---------+-----+--------+-----|
+  | Nginx   | {2} | Apache | {1} |
 
 
 
-  | Databases |   |            |   |
-  |-----------+---+------------+---|
-  | Mysql     | ♥ | Postgresql | ♥ |
-  | Sqlite    | ♠ | Mongo      | ♠ |
-  | Redis     | ♠ |            |   |
+  | Databases |     |            |     |
+  |-----------+-----+------------+-----|
+  | Mysql     | {2} | Postgresql | {2} |
+  | Sqlite    | {2} | Mongo      | {2} |
+  | Redis     | {1} |            |     |
   
 
   
-  | Tools      |   |      |   |
-  |------------+---+------+---|
-  | Slack      | ♥ | Jira | ♥ |
-  | Confluence | ♥ |      |   |
+  | Tools      |     |      |     |
+  |------------+-----+------+-----|
+  | Slack      | {3} | Jira | {3} |
+  | Confluence | {3} |      |     |
 
   
   
-  | Others   |   |               |   |
-  |----------+---+---------------+---|
-  | Emacs    | ♦ | Linux(debian) | ♦ |
-  | Org-mode | ♥ | Magit/git     | ♥ |
-  | Network  | ♥ | Docker        | ♥ |
+  | Others |     |         |     |
+  |--------+-----+---------+-----|
+  | Emacs  | {3} | Git     | {2} |
+  | Docker | {2} | Vagrant | {2} |
 
 ** Human Language
-|---------+---|
-| French  | ♣ |
-| English | ♦ |
-|---------+---|
+|---------+-----|
+| French  | {4} |
+| English | {3} |
+|---------+-----|
 
 * Final
   I had to build a website, for my final, i could choose my techonology, so i build it with python and django.
