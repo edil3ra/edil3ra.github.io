@@ -9,3 +9,5 @@ output
 _env/
 nikola
 zzz
+.tern-port
+.tern-project
