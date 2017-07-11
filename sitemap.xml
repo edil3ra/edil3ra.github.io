@@ -15,19 +15,27 @@
  </url>
  <url>
   <loc>https://edil3ra.github.io/archive.html</loc>
-  <lastmod>2017-06-08T12:40:00Z</lastmod>
+  <lastmod>2017-07-11T12:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://edil3ra.github.io/categories.html</loc>
-  <lastmod>2017-06-08T12:40:00Z</lastmod>
+  <lastmod>2017-07-11T12:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://edil3ra.github.io/categories/</loc>
-  <lastmod>2017-05-26T13:22:00Z</lastmod>
+  <lastmod>2017-07-11T08:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://edil3ra.github.io/categories/cat_emacs/</loc>
+  <lastmod>2017-07-11T08:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://edil3ra.github.io/categories/cat_test/</loc>
   <lastmod>2017-05-26T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://edil3ra.github.io/categories/emacs-music/</loc>
+  <lastmod>2017-07-11T08:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://edil3ra.github.io/categories/test-hello-world/</loc>

@@ -2,17 +2,15 @@
 .. title: Listen to music with emacs using bongo
 .. slug: listen-to-music-with-emacs-using-bongo
 .. date: 2017-04-08 22:17:33 UTC+02:00
-.. tags: 
-.. category: 
+.. tags: emacs music
+.. category: emacs
 .. link: 
 .. description: This a tutorial to listen music in emacs with bongo
 .. type: text
 #+END_COMMENT
 
 
-* Basic settings for the bongo package
 * dependencies 
-  + use-package
 
 #+BEGIN_SRC emacs-lisp
 (use-package bongo
@@ -22,9 +20,6 @@
 				bongo-confirm-flush-playlist nil
 				bongo-insert-whole-directory-trees nil)))
 #+END_SRC
-
-
-
 
 
 

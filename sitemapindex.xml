@@ -6,8 +6,16 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://edil3ra.github.io/categories/cat_emacs.xml</loc>
+  <lastmod>2017-07-11T08:26:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://edil3ra.github.io/categories/cat_test.xml</loc>
   <lastmod>2017-05-26T13:22:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://edil3ra.github.io/categories/emacs-music.xml</loc>
+  <lastmod>2017-07-11T08:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://edil3ra.github.io/categories/test-hello-world.xml</loc>
@@ -15,18 +23,18 @@
  </sitemap>
  <sitemap>
   <loc>https://edil3ra.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2017-06-08T12:40:00Z</lastmod>
+  <lastmod>2017-07-11T12:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://edil3ra.github.io/galleries/rss.xml</loc>
-  <lastmod>2017-06-08T12:40:00Z</lastmod>
+  <lastmod>2017-07-11T12:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://edil3ra.github.io/rss.xml</loc>
-  <lastmod>2017-05-26T13:22:00Z</lastmod>
+  <lastmod>2017-07-11T08:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://edil3ra.github.io/sitemap.xml</loc>
-  <lastmod>2017-06-08T12:40:00Z</lastmod>
+  <lastmod>2017-07-11T12:46:00Z</lastmod>
  </sitemap>
 </sitemapindex>
