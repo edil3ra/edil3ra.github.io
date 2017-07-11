@@ -38,10 +38,6 @@
 }
 
 
-.post-games {
-	
-}
-
 
 .post-games header h1 {
 	margin: 2.5%;
@@ -55,6 +51,9 @@
 	cursor: default;
 }
 
+.post-games #outline-container-sec-2{
+	margin: 2rem !important;
+}
 
 
 .post-games ul{
@@ -85,6 +84,35 @@
 
 .post-games p{
 	margin:0;
-	margin-top: 1em;
-	
+	margin-top: 1em;	
 }
+
+.post-cv .outline-3 {
+     margin-bottom: 2rem;
+}
+
+.post-cv .outline-2 {
+     margin-bottom: 3rem;
+}
+
+
+.my-post-cv-el {
+    overflow: hidden;
+    line-height: 50px;
+}
+
+.my-post-cv-h1 {
+    float: left;
+}
+
+.my-post-cv-ul {
+    float: right;
+    list-style-type: none;
+    margin-bottom: 0;
+}
+
+.my-post-cv-lis {
+    float: left;
+    margin-left: 20px;
+}
+

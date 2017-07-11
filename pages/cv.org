@@ -10,11 +10,13 @@
 #+END_COMMENT
 
 
-| About me                |        |
-|-------------------------+--------|
-| Age                     | 27 ans |
-| Personnal experience    | 6 ans  |
-| Professional experience | 1 ans  |
+
+| About me                |                     |
+|-------------------------+---------------------|
+| Age                     | 27 ans              |
+| Personnal experience    | 6 ans               |
+| Professional experience | 2 ans               |
+| Country                 | Belguim, Luxembourg |
 
 
 #+BEGIN_QUOTE
@@ -108,45 +110,54 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
 | English | {3} |
 |---------+-----|
 
-* Final
-  I had to build a website, for my final, i could choose my techonology, so i build it with python and django.
-  I was learning the framework and the language in the same time, so it's not perfect, but it made the job.
-  I also build a admin zone  django-admin and a calendar with ajax/jquery.
-  http://www.liex.be
+
+
 * Professional Experience
-| *Vesperia -  /*2016*/ | Software Engineer*                                |
-|-----------------------+---------------------------------------------------|
-| *Description*         | *LogDirect:* Bugfixing on existing website.       |
-| *Environnement*       | Wordpress, Jquery, Css, Bootstrap, Docker.        |
-| *Description*         | *atHome*: Building statical tools with typescript |
-| *Environnement*       | Typescript and React, home framework, docker.     |
+| *Vesperia -  /*2016 - 2017*/ (14 months) | Software Engineer*                                |
+|------------------------------------------+---------------------------------------------------|
+| *Description*                            | *Docteana* Improve the website.                   |
+| *Environnement*                          | zf2, jquery, angular, mysql, vagrant              |
+| *Description*                            | *LogDirect:* Bugfixing on existing website.       |
+| *Environnement*                          | Wordpress, Jquery, Css, Bootstrap, Docker.        |
+| *Description*                            | *atHome*: Building statical tools with typescript |
+| *Environnement*                          | Typescript and React, home framework, docker.     |
 
 
-| *Vous.lu - /*2015*/ | Web developer*                  |
-|---------------------+---------------------------------|
-| *Description*       | Building website for the agency |
-| *Environnement*     | Wordpress bootstrap             |
+| *Vous.lu - /*2015*/ (2month)* | *Web developer*                 |
+|-------------------------------+---------------------------------|
+| *Description*                 | Building website for the agency |
+| *Environnement*               | Wordpress bootstrap             |
 
 
 
 
-| *Vesperia Group Traning course* |                                                              |
+* Education
+| *Vesperia Group Traning course* |                                                            |
 |---------------------------------+--------------------------------------------------------------|
 |                            2016 | - POO & Design Patterns, Tests Unitaires et ZendFramwork 2*/ |
 
 
 
-| STE-Formations |                      |
-|----------------+----------------------|
-|      2014-2015 | Java cloud computing |
+| *STE-Formations 2014-2015* | *Java cloud computing*                                       |
+|----------------------------+--------------------------------------------------------------|
+| *Description*              | It was a advanced formation that last 1 years                |
+|                            | We did a lot of database analyse, algorithm, design patterns |
+|                            | We build a sudoku and a website                     |
 
 
+| *Bac + 2 (2012-2014) | Web developer*                                        |
+|----------------------+-------------------------------------------------------|
+| *Description*        | first year: html, css, php, mysql, javascript, jquery |
+|                      | second year: symfony2, pdo, apache, bootstrap..       |
+| *Final*              | build http://www.liex.be                              |
+| *Environnement*      | Python, django, mysql, nginx, foundation, jquery      |
+| *Description*        | I had the choice of thecnologie so i choose python    |
+|                      | to give me a challenge, i really like the project and |
+|                      | i learn a lot as a web developer because i build      |
+|                      | everything from scratch, it has a backend and         |
+|                      | a private zone with a calendar and a chat             |
 
 
-| STE-Formations |               |
-|----------------+---------------|
-|      2012-2014 | Web developer |
-
-
-
-
+| *Formation web* |               |
+|-----------------+---------------|
+|       2011-2012 | Web developer |
