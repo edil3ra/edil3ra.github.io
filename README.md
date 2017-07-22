@@ -8,7 +8,6 @@
 	svn export https://github.com/edil3ra/pong/trunk/public games/pong --force
 	svn export https://github.com/edil3ra/life/trunk/public games/life --force
 	svn export https://github.com/edil3ra/spherebreak/trunk/public games/spherebreak --force
-	svn export https://github.com/edil3ra/spherebreak/trunk/public --force
 
 
 # cv
