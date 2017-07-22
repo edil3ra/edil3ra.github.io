@@ -10,24 +10,16 @@
   <lastmod>2017-07-22T11:21:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://edil3ra.github.io/categories/cat_test.xml</loc>
-  <lastmod>2017-05-13T11:40:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://edil3ra.github.io/categories/emacs-music.xml</loc>
   <lastmod>2017-07-22T11:21:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://edil3ra.github.io/categories/test-hello-world.xml</loc>
-  <lastmod>2017-05-13T11:40:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://edil3ra.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2017-07-22T11:21:00Z</lastmod>
+  <lastmod>2017-07-22T11:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://edil3ra.github.io/galleries/rss.xml</loc>
-  <lastmod>2017-07-22T11:21:00Z</lastmod>
+  <lastmod>2017-07-22T11:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://edil3ra.github.io/rss.xml</loc>
@@ -35,6 +27,6 @@
  </sitemap>
  <sitemap>
   <loc>https://edil3ra.github.io/sitemap.xml</loc>
-  <lastmod>2017-07-22T11:21:00Z</lastmod>
+  <lastmod>2017-07-22T11:38:00Z</lastmod>
  </sitemap>
 </sitemapindex>

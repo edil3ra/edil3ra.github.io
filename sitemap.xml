@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://edil3ra.github.io/archive.html</loc>
-  <lastmod>2017-07-22T11:21:00Z</lastmod>
+  <lastmod>2017-07-22T11:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://edil3ra.github.io/categories.html</loc>
-  <lastmod>2017-07-22T11:21:00Z</lastmod>
+  <lastmod>2017-07-22T11:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://edil3ra.github.io/categories/</loc>
@@ -30,16 +30,8 @@
   <lastmod>2017-07-22T11:21:00Z</lastmod>
  </url>
  <url>
-  <loc>https://edil3ra.github.io/categories/cat_test/</loc>
-  <lastmod>2017-05-13T10:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://edil3ra.github.io/categories/emacs-music/</loc>
   <lastmod>2017-07-22T11:21:00Z</lastmod>
- </url>
- <url>
-  <loc>https://edil3ra.github.io/categories/test-hello-world/</loc>
-  <lastmod>2017-05-13T10:40:00Z</lastmod>
  </url>
  <url>
   <loc>https://edil3ra.github.io/galleries/</loc>
@@ -75,10 +67,6 @@
  </url>
  <url>
   <loc>https://edil3ra.github.io/posts/listen-to-music-with-emacs-using-bongo/</loc>
-  <lastmod>2017-05-13T08:23:00Z</lastmod>
- </url>
- <url>
-  <loc>https://edil3ra.github.io/posts/test/</loc>
   <lastmod>2017-05-13T08:23:00Z</lastmod>
  </url>
 </urlset>
