@@ -11,18 +11,17 @@
 
 
 
-| About me                |                     |
-|-------------------------+---------------------|
-| Age                     | 27 ans              |
-| Personnal experience    | 6 ans               |
-| Professional experience | 2 ans               |
-| Country                 | Belguim, Luxembourg |
+| About me                |                      |
+|-------------------------+----------------------|
+| firstname               | Houba                |
+| LastName                | Vincent              |
+| Age                     | 27 ans               |
+| Personnal experience    | 6 ans                |
+| Professional experience | 2 ans                |
+| Country                 | Belgium, Liege       |
+| Email                   | houbavince@gmail.com |
 
 
-#+BEGIN_QUOTE
-Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
--- Abraham Lincoln
-#+END_QUOTE
 
 * Technical Skills
 *** {1}   _low_   {2}  _medium_  {3}  _high_  {4}  _master_
@@ -110,8 +109,6 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
 | English | {3} |
 |---------+-----|
 
-
-
 * Professional Experience
 | *Vesperia -  /*2016 - 2017*/ (14 months) | Software Engineer*                                |
 |------------------------------------------+---------------------------------------------------|
@@ -127,8 +124,6 @@ Give me six hours to chop down a tree and I will spend the first four sharpening
 |-------------------------------+---------------------------------|
 | *Description*                 | Building website for the agency |
 | *Environnement*               | Wordpress bootstrap             |
-
-
 
 
 * Education
